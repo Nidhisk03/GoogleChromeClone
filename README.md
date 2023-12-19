@@ -1,3 +1,1 @@
-# Google-Clone-Tutorial-CodingStar
-
-[Click Here](https://codingstar-jason.github.io/Google-Clone-Tutorial-CodingStar/) to see website
+This is the Google Chrome Made using Html, Css and Javascript
